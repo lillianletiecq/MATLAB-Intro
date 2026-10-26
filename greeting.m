@@ -6,7 +6,6 @@
 
 clear
 clc
-format long
 
 %% Main?
 
